@@ -17,3 +17,9 @@ Install dependencies:
 
 ```cd eth-todo-list```
 ```npm install```
+
+Compile source code:
+```truffle compile```
+
+Migrate contract to blockchain:
+```truffle migrate```
