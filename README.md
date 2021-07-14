@@ -3,15 +3,17 @@
 
 https://www.dappuniversity.com/articles/blockchain-app-tutorial
 
-node -v
+```node -v```
 
-If you don't have node, install it: https://nodejs.org/en/
+If you don't have node package manager, install it: https://nodejs.org/en/
 
-Install truffle: npm install -g truffle@5.0.2
+Install truffle: 
+
+```npm install -g truffle@5.0.2```
 
 Install Ganache: https://www.trufflesuite.com/ganache
 
 Install dependencies:
 
-cd eth-todo-list
-npm install
+```cd eth-todo-list```
+```npm install```
