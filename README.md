@@ -32,4 +32,4 @@ Migrate contract to blockchain:
 or
 ```truffle migrate --reset```
 
-If migrate fails try rm -r build/
+If migrate fails try ```rm -r build/```
