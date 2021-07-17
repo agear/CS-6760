@@ -13,13 +13,23 @@ Install truffle:
 
 Install Ganache: https://www.trufflesuite.com/ganache
 
+Install Metamask extension for Chrome: https://metamask.io
+
 Install dependencies:
 
 ```cd eth-todo-list```
 ```npm install```
+
+Check truffle version:
+
+```truffle version```
 
 Compile source code:
 ```truffle compile```
 
 Migrate contract to blockchain:
 ```truffle migrate```
+or
+```truffle migrate --reset```
+
+If migrate fails try rm -r build/
