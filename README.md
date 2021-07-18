@@ -33,3 +33,5 @@ or
 ```truffle migrate --reset```
 
 If migrate fails try ```rm -r build/```
+
+To start server: ```npm run dev```
